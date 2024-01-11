@@ -15,7 +15,7 @@ topology:
     ### ROUTERS ###
     router2: 
       kind: srl
-      startup-config: configs/router2.json
+      startup-config: configs/srl1.cfg
     
     router1:
       kind: linux
