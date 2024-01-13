@@ -46,4 +46,4 @@ topology:
    - endpoints: ["br-clab2:eth1", "router1:eth1"]
    - endpoints: ["br-clab2:eth2", "PC1:eth1"]
    - endpoints: ["br-clab2:eth3", "PC3:eth1"]
-   - endpoints: ["br-clab2:eth4", "router2:e1-1.0"]
+   - endpoints: ["br-clab2:eth4", "router2:e1-1"]
