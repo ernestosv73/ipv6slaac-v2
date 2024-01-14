@@ -8,7 +8,7 @@ topology:
 
     srl:
       image: ghcr.io/nokia/srlinux:23.10.1
-      type: ixrd2
+      type: ixrd3
 
 
   nodes:
